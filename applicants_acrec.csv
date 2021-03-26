@@ -1,0 +1,21 @@
+﻿Age,Gender,SSC_Marks,HSC_Marks,Type_of_Bachelors_degree,Branch_of_Bachelors_Degree,GPA_of_Bachelors_degree,Duration of Bachelors Degree,No_of_year_gaps,Year_of_Graduation,Work_Exp,Projects_done,Expertise on Domain Knowledge,No_of _standing_Arrears,Record_of_prev_Arrears,Dedication_to_learn_and_adapt_to_new_oppertunities,Social_skills,Extra_curricular_achievements,Comfortable to Relocate,Shortlisted
+23,Female,96.58,93.33,BTECH,Computer Science,8.98,4,1,2019,No,Yes,Advanced,0,No,Moderate,Low,No,Yes,Yes
+29,Male,87.3,90.67,BE,Electronics,7.66,4,2,2018,Yes,Yes,Advanced,0,Yes,Moderate,High,Yes,Yes,No
+28,Male,76.78,75.32,BTECH,Information Technology,8.1,4,0,2020,No,No,Begineer,0,No,Low,Moderate,No,No,No
+22,Female,90.56,83.23,BCA,Computer Appliations,7.89,3,2,2018,No,Yes,Mediocre,1,No,Moderate,Low,Yes,Yes,Yes
+25,Male,70.4,69.78,BTECH,Electronics,8.35,5,1,2019,Yes,No,Begineer,0,No,High,Moderate,Yes,No,Yes
+30,Female,83.41,75.34,BCA,Computer Appliations,8.53,3,0,2020,No,Yes,Mediocre,1,Yes,High,Low,No,Yes,Yes
+23,Female,93.45,95.89,BE,Information Technology,9.15,4,0,2020,No,No,Begineer,0,Yes,Moderate,High,Yes,No,Yes
+26,Male,78.9,67.86,BTECH,Electronics,7.65,4,1,2019,No,Yes,Mediocre,1,No,High,Moderate,No,Yes,Yes
+24,Female,89.34,93.24,BE,Information Technology,9.35,5,0,2020,No,No,Begineer,0,No,Moderate,High,No,Yes,No
+30,Male,75.85,67.98,BCA,Computer Appliations,8.54,3,0,2020,No,Yes,Mediocre,0,Yes,Low,Moderate,Yes,Yes,Yes
+28,Female,87.34,73.95,BTECH,Electronics,7.59,5,0,2020,No,No,Begineer,1,Yes,High,Low,No,No,No
+24,Female,79.9,79.42,BTECH,Information Technology,8.59,4,2,2018,Yes,Yes,Mediocre,0,Yes,Moderate,Moderate,No,Yes,Yes
+26,Male,91.43,84.9,BE,Computer Science,9.45,4,0,2020,No,No,Begineer,1,No,Low,High,Yes,Yes,No
+25,Female,85.96,95.39,BTECH,Electronics,9.05,4,1,2019,Yes,Yes,Advanced,0,No,High,Moderate,No,Yes,Yes
+24,Male,78.9,76.38,BE,Information Technology,8.21,5,0,2020,No,No,Mediocre,1,No,High,Moderate,Yes,Yes,No
+25,Female,85.34,80.68,BTECH,Electronics,8.69,4,1,2019,Yes,No,Begineer,0,Yes,Low,Moderate,No,No,Yes
+28,Female,95.31,90.56,BE,Computer Science,8.85,4,0,2020,No,Yes,Advanced,1,No,Moderate,Low,Yes,Yes,Yes
+30,Male,91.98,88.45,BCA,Computer Appliations,7.89,3,2,2018,Yes,Yes,Advanced,0,No,High,Moderate,Yes,Yes,Yes
+23,Male,79.33,81.49,BE,Information Technology,8.55,4,1,2019,No,No,Begineer,1,No,High,Moderate,No,No,No
+26,Female,84.51,76.98,BTECH,Electronics,8.96,4,0,2020,No,Yes,Mediocre,0,Yes,Moderate,High,Yes,Yes,Yes
